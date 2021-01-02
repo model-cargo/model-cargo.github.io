@@ -1,0 +1,38 @@
+I"†<p>Office is located in Al Firdous Building, Al Fahidi Street unit no.112.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Opening Hours</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tuesday</td>
+      <td>9:30am - 11:00pm</td>
+    </tr>
+    <tr>
+      <td>Wednesday</td>
+      <td>9:30am - 11:00pm</td>
+    </tr>
+    <tr>
+      <td>Thursday</td>
+      <td>9:30am - 11:00pm</td>
+    </tr>
+    <tr>
+      <td>Friday</td>
+      <td>Closed</td>
+    </tr>
+    <tr>
+      <td>Saturday</td>
+      <td>10:00am - 4:00pm</td>
+    </tr>
+    <tr>
+      <td>Saturday</td>
+      <td>10:00am - 11:00pm</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

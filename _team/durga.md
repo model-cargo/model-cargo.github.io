@@ -1,11 +1,11 @@
 ---
 title: "Durga Prasad"
-date: 2018-11-19T10:47:58+10:00
+date: 2020-12-29T14:09:35+04:00
 draft: false
 image: "images/team/male.jpg"
-jobtitle: "Senior Documentation Associate [Aweer]"
+jobtitle: "Inspection Expert"
 linkedinurl: ""
-weight: 4
+weight: 5
 layout: team
 ---
 

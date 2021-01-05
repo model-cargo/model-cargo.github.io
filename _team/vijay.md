@@ -3,7 +3,7 @@ title: 'Vijay'
 date: 2020-12-29T13:58:56+04:00
 draft: false
 image: 'images/team/male.jpg'
-jobtitle: 'Documentation Specialist'
+jobtitle: 'Administrative Executive'
 promoted: true
 weight: 2
 layout: team

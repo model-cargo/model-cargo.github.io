@@ -1,11 +1,11 @@
 ---
 title: "Nahid"
-date: 2018-11-19T10:47:58+10:00
+date: 2020-12-29T14:09:35+04:00
 draft: false
 image: "images/team/male.jpg"
-jobtitle: "Documentation Associate [Deira]"
+jobtitle: "Clerk"
 linkedinurl: ""
-weight: 5
+weight: 7
 layout: team
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: "Anil"
-date: 2018-11-19T10:47:58+10:00
+date: 2020-12-29T14:09:35+04:00 
 draft: false
 image: "images/team/male.jpg"
-jobtitle: "Senior Documentation Associate [Jebel Ali]"
+jobtitle: "Inspection Expert"
 linkedinurl: ""
-weight: 6
+weight: 4
 layout: team
 ---
 

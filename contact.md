@@ -3,15 +3,25 @@ title: Contact
 layout: contact
 bodyClass: page-contact
 ---
+ 
+| Contact   | Details         |
+| --------  | --------------- |
+| Mobile    | +971 50 5252386 |
+| Cell      | +971 55 3689750 |
+| Govind    | +971 55 5529071 |
+| Fax       | +971 4  3524402 |
 
-Office is located in Al Firdous Building, Al Fahidi Street unit no.112.
+# Office
+
+Office is located in Al Firdous Building, near Al Musalla post office Al Fahidi Street unit no.112.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
-| Tuesday   | 9:30am - 11:00pm |
-| Wednesday | 9:30am - 11:00pm |
-| Thursday  | 9:30am - 11:00pm |
+| Monday    | 9:00am - 9:00pm |
+| Tuesday   | 9:00am - 9:00pm |
+| Wednesday | 9:00am - 9:00pm |
+| Thursday  | 9:00am - 9:00pm |
 | Friday    | Closed |
-| Saturday  | 10:00am - 4:00pm  |
-| Saturday  | 10:00am - 11:00pm |
+| Saturday  | 9:00am - 6:00pm  |
+| Sunday    | 9:00am - 9:00pm |
 
